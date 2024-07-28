@@ -1,4 +1,4 @@
-# Application to detect plant diseases and suggest remedies
+# FLORAFIX:An application to detect plant diseases and suggest remedies
 
 ## Introduction
 This web application uses machine learning to detect plant diseases from images and suggests appropriate remedies. Easily upload photos of your plants to get instant diagnosis and treatment recommendations.
